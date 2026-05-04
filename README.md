@@ -75,13 +75,7 @@ I’m especially interested in applying data to **real-world operational problem
   <a href="https://www.linkedin.com/in/andressampadilha" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-</div>
-
----
-
-## ⚡ Fun Fact
-
-I'm building my alter ego **Drix** — where data meets attitude 🚀  
+</div> 
 
 ---
 

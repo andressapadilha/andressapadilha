@@ -14,8 +14,6 @@ I’m currently studying Data Science and building projects focused on:
 - Process improvement using data  
 - Dashboard creation (Power BI & Excel)  
 
-I’m especially interested in applying data to **real-world operational problems**.
-
 ---
 
 ## 📊 GitHub Stats
@@ -44,16 +42,12 @@ I’m especially interested in applying data to **real-world operational problem
 - Monitoring operational variables (IVs)  
 - Focus on identifying failures and improving performance  
 
-👉 Result: Better visibility and faster decision-making  
-
 ---
 
 🔹 **Data Analysis Project**  
 - Data cleaning with Python  
 - Exploratory analysis  
 - Insight generation  
-
-👉 Result: Identification of patterns and optimization opportunities  
 
 ---
 

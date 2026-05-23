@@ -16,15 +16,6 @@ I’m currently studying Data Science and building projects focused on:
 
 ---
 
-## 📊 GitHub Stats
-
-<div>
-  <a href="https://github.com/andressapadilha">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andressapadilha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressapadilha&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
